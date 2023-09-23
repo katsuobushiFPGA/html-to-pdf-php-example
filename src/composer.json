@@ -1,0 +1,10 @@
+{
+    "require": {
+        "spiritix/php-chrome-html2pdf": "^1.7"
+    },
+    "config": {
+        "allow-plugins": {
+            "eloquent/composer-npm-bridge": true
+        }
+    }
+}
